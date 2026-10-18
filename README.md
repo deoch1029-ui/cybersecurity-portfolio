@@ -16,7 +16,7 @@ Actualmente me estoy preparando para estudiar **Ciberseguridad**
 
 ### Inteligencia Artificial
 - ✅ Introduction to Modern AI  
-  ([Ver certificado]([./certificates/introduction-to-modern-ai.pdf](https://www.netacad.com/recognitions/verify/346d4c08-38fa-4f2c-b6fb-3da463ec2a90)))
+  ([Ver certificado]((https://www.netacad.com/recognitions/verify/346d4c08-38fa-4f2c-b6fb-3da463ec2a90)))
 ## En progreso
 - 🔄 TryHackMe – Pre Security Path
 - 🔄 TryHackMe – Complete Beginner Path
