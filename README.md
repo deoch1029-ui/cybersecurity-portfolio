@@ -1,7 +1,7 @@
 # Portafolio de Ciberseguridad
 
-¡Hola! Soy un estudiante de Ecuador, graduado con promedio 9.40.  
-Actualmente me estoy preparando para estudiar **Ciberseguridad** 
+¡Hola! Soy un estudiante de Ecuador, graduado con promedio **9.40**.  
+Actualmente me estoy preparando para estudiar **Ciberseguridad** en el extranjero (Europa, Asia o Rusia) con el objetivo de obtener becas.
 
 ## Sobre mí
 - Apasionado por la ciberseguridad, redes y tecnología.
@@ -11,16 +11,16 @@ Actualmente me estoy preparando para estudiar **Ciberseguridad**
 ## Cursos Completados
 
 ### Ciberseguridad
-- ✅ **Cisco Networking Academy** – Introduction to Cybersecurity  
-  ([Ver certificado](https://www.netacad.com/recognitions/verify/d864cfab-9e76-4304-940f-44946527b803))
+- ✅ **Cisco Networking Academy – Introduction to Cybersecurity**  
+  [Ver certificado](https://www.netacad.com/recognitions/verify/d864cfab-9e76-4304-940f-44946527b803)
 
 ### Inteligencia Artificial
-- ✅ Introduction to Modern AI  
-  ([Ver certificado](https://www.netacad.com/recognitions/verify/346d4c08-38fa-4f2c-b6fb-3da463ec2a90))
+- ✅ **Cisco Networking Academy – Introduction to Modern AI**  
+  [Ver certificado](https://www.netacad.com/recognitions/verify/346d4c08-38fa-4f2c-b6fb-3da463ec2a90)
 
 - ✅ **Santander Open Academy - Google: Inteligencia Artificial y Productividad**  
   [Ver certificado](./certificates/santander-ia-productividad.pdf)
-  
+
 ## En progreso
 - 🔄 TryHackMe – Pre Security Path
 - 🔄 TryHackMe – Complete Beginner Path
