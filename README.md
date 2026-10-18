@@ -17,6 +17,10 @@ Actualmente me estoy preparando para estudiar **Ciberseguridad**
 ### Inteligencia Artificial
 - ✅ Introduction to Modern AI  
   ([Ver certificado](https://www.netacad.com/recognitions/verify/346d4c08-38fa-4f2c-b6fb-3da463ec2a90))
+
+- ✅ **Santander Open Academy - Google: Inteligencia Artificial y Productividad**  
+  [Ver certificado](./certificates/santander-ia-productividad.pdf)
+  
 ## En progreso
 - 🔄 TryHackMe – Pre Security Path
 - 🔄 TryHackMe – Complete Beginner Path
